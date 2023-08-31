@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjemploUIControl</string>
+    <string name="password_hint">Inserte su password</string>
+    <string name="textoBoton">Cambiar color</string>
+    <string name="textCheckBox">Minuscula</string>
+    <string name="radioPeque">Pequeño</string>
+    <string name="radioNormal">Normal</string>
+</resources>
